@@ -1,0 +1,162 @@
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-Thin.woff2') format('woff2'),
+        url('web/Chamberlain-Thin.woff') format('woff'),
+        url('ttf/Chamberlain-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-ThinItalic.woff2') format('woff2'),
+        url('web/Chamberlain-ThinItalic.woff') format('woff'),
+        url('ttf/Chamberlain-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-ExtraLight.woff2') format('woff2'),
+        url('web/Chamberlain-ExtraLight.woff') format('woff'),
+        url('ttf/Chamberlain-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-ExtraLightItalic.woff2') format('woff2'),
+        url('web/Chamberlain-ExtraLightItalic.woff') format('woff'),
+        url('ttf/Chamberlain-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-Light.woff2') format('woff2'),
+        url('web/Chamberlain-Light.woff') format('woff'),
+        url('ttf/Chamberlain-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-LightItalic.woff2') format('woff2'),
+        url('web/Chamberlain-LightItalic.woff') format('woff'),
+        url('ttf/Chamberlain-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-Regular.woff2') format('woff2'),
+        url('web/Chamberlain-Regular.woff') format('woff'),
+        url('ttf/Chamberlain-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-Italic.woff2') format('woff2'),
+        url('web/Chamberlain-Italic.woff') format('woff'),
+        url('ttf/Chamberlain-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-Medium.woff2') format('woff2'),
+        url('web/Chamberlain-Medium.woff') format('woff'),
+        url('ttf/Chamberlain-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-MediumItalic.woff2') format('woff2'),
+        url('web/Chamberlain-MediumItalic.woff') format('woff'),
+        url('ttf/Chamberlain-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-SemiBold.woff2') format('woff2'),
+        url('web/Chamberlain-SemiBold.woff') format('woff'),
+        url('ttf/Chamberlain-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-SemiBoldItalic.woff2') format('woff2'),
+        url('web/Chamberlain-SemiBoldItalic.woff') format('woff'),
+        url('ttf/Chamberlain-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-Bold.woff2') format('woff2'),
+        url('web/Chamberlain-Bold.woff') format('woff'),
+        url('ttf/Chamberlain-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-BoldItalic.woff2') format('woff2'),
+        url('web/Chamberlain-BoldItalic.woff') format('woff'),
+        url('ttf/Chamberlain-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-ExtraBold.woff2') format('woff2'),
+        url('web/Chamberlain-ExtraBold.woff') format('woff'),
+        url('ttf/Chamberlain-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-ExtraBoldItalic.woff2') format('woff2'),
+        url('web/Chamberlain-ExtraBoldItalic.woff') format('woff'),
+        url('ttf/Chamberlain-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-Black.woff2') format('woff2'),
+        url('web/Chamberlain-Black.woff') format('woff'),
+        url('ttf/Chamberlain-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chamberlain';
+    src: url('web/Chamberlain-BlackItalic.woff2') format('woff2'),
+        url('web/Chamberlain-BlackItalic.woff') format('woff'),
+        url('ttf/Chamberlain-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}

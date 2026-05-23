@@ -2,19 +2,6 @@ from fontTools.ttLib import TTFont
 
 '''Generate WOFF from TTF or OTF font.'''
 
-srcPath  = './ttf/Chamberlain-Thin.ttf'
-woffPath = './web/Chamberlain-Thin.woff'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff'
-    font.save(woffPath)
-
-srcPath  = './ttf/Chamberlain-ThinItalic.ttf'
-woffPath = './web/Chamberlain-ThinItalic.woff'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff'
-    font.save(woffPath)
 
 srcPath  = './ttf/Chamberlain-ExtraLight.ttf'
 woffPath = './web/Chamberlain-ExtraLight.woff'
@@ -169,19 +156,6 @@ with TTFont(srcPath) as font:
 
 '''Generate WOFF2 from TTF or OTF font.'''
 
-srcPath  = './ttf/Chamberlain-Thin.ttf'
-woff2Path = './web/Chamberlain-Thin.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)
-
-srcPath  = './ttf/Chamberlain-ThinItalic.ttf'
-woff2Path = './web/Chamberlain-ThinItalic.woff2'
-
-with TTFont(srcPath) as font:
-    font.flavor = 'woff2'
-    font.save(woff2Path)
 
 srcPath  = './ttf/Chamberlain-ExtraLight.ttf'
 woff2Path = './web/Chamberlain-ExtraLight.woff2'
